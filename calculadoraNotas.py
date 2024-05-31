@@ -15,7 +15,7 @@ nota4u = float(input(''))
 
 notaTotal = (nota1u + nota2u + nota3u + nota4u)
 
-notaFinal = (notaTotal / 5.0)
+notaFinal = (notaTotal / 4)
 
 if (notaFinal >= 5.0) :
     print (f"Parabéns {nome}, sua nota final foi de: {notaFinal:.1f}") #o :.2f faz o valor da variável ter somente duas casas decimais
